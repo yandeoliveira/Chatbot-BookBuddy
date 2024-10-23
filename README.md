@@ -53,7 +53,8 @@ Para executar o projeto, use o seguinte comando no terminal:
 ```
 python nome_do_seu_arquivo.py
 ```
-Substitua nome_do_seu_arquivo.py pelo nome do arquivo que contém o código.
+Substitua nome_do_seu_arquivo.py pelo nome do arquivo que contém o código. 
+(O arquivo do código está na branch filial)
 
 # Uso
 Ao iniciar o aplicativo, você verá uma interface onde pode interagir com o chatbot.
