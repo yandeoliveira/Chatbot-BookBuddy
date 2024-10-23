@@ -58,11 +58,12 @@ Substitua nome_do_seu_arquivo.py pelo nome do arquivo que contém o código.
 # Uso
 Ao iniciar o aplicativo, você verá uma interface onde pode interagir com o chatbot.
 Siga as instruções fornecidas pelo chatbot para adicionar, excluir, buscar ou listar livros.
-Contribuição
+
+# Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request.
 
 # Licença
-Este projeto está licenciado sob a licenca GPL-3.0. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a licença GPL-3.0. Veja o arquivo LICENSE para mais detalhes.
 
 # Contato
 Para dúvidas ou sugestões, entre em contato com [yansantos2410@gmail.com].
