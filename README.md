@@ -62,7 +62,7 @@ Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request.
 
 # Licença
-Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a licenca GPL-3.0. Veja o arquivo LICENSE para mais detalhes.
 
 # Contato
 Para dúvidas ou sugestões, entre em contato com [yansantos2410@gmail.com].
