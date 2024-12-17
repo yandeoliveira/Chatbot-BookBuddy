@@ -47,7 +47,7 @@ CREATE TABLE livros (
 );
 ```
 
-# Executando o Projeto
+## Executando o Projeto
 Para executar o projeto, use o seguinte comando no terminal:
 
 ```
@@ -56,15 +56,19 @@ python nome_do_seu_arquivo.py
 Substitua nome_do_seu_arquivo.py pelo nome do arquivo que contém o código. 
  O arquivo do código está na branch filial (master 2)
 
-# Uso
+## Uso
 Ao iniciar o aplicativo, você verá uma interface onde pode interagir com o chatbot.
 Siga as instruções fornecidas pelo chatbot para adicionar, excluir, buscar ou listar livros.
 
-# Contribuição
+## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request.
 
-# Licença
+## Licença
 Este projeto está licenciado sob a licença GPL-3.0. Veja o arquivo LICENSE para mais detalhes.
 
-# Contato
-Para dúvidas ou sugestões, entre em contato com [yansantos2410@gmail.com].
+## Contato
+Para mais informações entre em contato [yansantos2410@gmail.com]
+Desenvolvedor: Yan de Oliveira
+
+## Informações adicionais
+Código fonte do aplicativo e executavel se encontram em outra branch do repositório.
